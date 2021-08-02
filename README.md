@@ -1,5 +1,6 @@
 # file-system
 Little app I developed for replicating a simple file system. Meant for my first job application ever. :)
+Sadly, all the code is in Portuguese.
 
 *Finished on 10/01/2020*
 
